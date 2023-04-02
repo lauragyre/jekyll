@@ -1,3 +1,0 @@
-- discuss with Garry whether links in dropdown menus could be relative/automatically work across systems/always link to final live version
-- document making changes in links when transfering posts from one environment to another
-- talk to Tammi week of Jan 3 about week of vacation in January or February
