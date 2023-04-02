@@ -1,5 +1,5 @@
 h1, h2, h3, h4, .page-header {
-    
+
     font-weight: normal !important;
 }
 
@@ -13,5 +13,5 @@ a {
 }
 
 .site-header, .site-footer {
-    display: none !important;
+  
 }
