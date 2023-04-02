@@ -4,7 +4,7 @@ dg-publish: true
 
 *“God is a circle, whose center is everywhere and whose circumference is nowhere.”* - The Book of the 24 Philosophers
 
-<img src="/assets/snakeshape.jpg" style="float: left">
+<img src="/assets/snakeshape.jpg" style="float: left; padding-right: 10px;">
 
 My husband, James, used to work as a geometric artist, so he was frequently thinking in the back of his mind about questions like whether you could make a nice tiling pattern using both pentagons and hexagons.* Often these thoughts would boil over right before bedtime. 
 
