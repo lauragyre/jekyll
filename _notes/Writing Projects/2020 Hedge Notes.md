@@ -7,7 +7,9 @@ dg-publish: true
 
 In 2020, a couple of my huge personal themes were [[Metaphor|metaphor]] and boundaries. This is a series of notes I wrote that seemed worth saving to revisit in the future:
 
-![[/images/spider.jpeg|200]] 1. Hedgerows. In England and probably other places, they used to separate everybody’s property from everybody else’s. But also, they were literally made of hedges and incredibly diverse ecosystems tend to exist in (h)edge environments. Due to the way that boundaries actually connect everything to everything else, they’re also crucial corridors for wildlife migration.
+<img src="/assets/spider.jpeg" style="float: left">
+
+ 1. Hedgerows. In England and probably other places, they used to separate everybody’s property from everybody else’s. But also, they were literally made of hedges and incredibly diverse ecosystems tend to exist in (h)edge environments. Due to the way that boundaries actually connect everything to everything else, they’re also crucial corridors for wildlife migration.
 
 2. Boundaries, in general, interpersonal and otherwise, and their generative properties.
  
