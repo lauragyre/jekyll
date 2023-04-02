@@ -78,6 +78,7 @@ h6 {
 a {
   padding: 0 0.1em;
   text-decoration: none;
+  background-color: white !important;
   border-bottom: 0px solid $color-border;
   color: purple !important;
   &:hover {
@@ -94,7 +95,7 @@ a {
   &.internal-link:after,
   &.footnote:after,
   &.reversefootnote:after {
-    content: "";
+    content: ;
   }
 }
 
