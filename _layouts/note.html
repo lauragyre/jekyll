@@ -21,11 +21,12 @@ layout: default
       <h3 style="margin-bottom: 1em">Notes mentioning this note</h3>
       <div style="display: grid; grid-gap: 1em; grid-template-columns: repeat(1fr);">
       {% for backlink in page.backlinks %}
-        <div class="backlink-box">
-        <a class="internal-link" href="{{ site.baseurl }}{{ backlink.url }}{%- if site.use_html_extension -%}.html{%- endif -%}">{{ backlink.title }}</a><br>
-        <div style="font-size: 0.9em">{{ backlink.excerpt | strip_html | truncatewords: 20 }}</div>
-        </div>
       {% endfor %}
+
+      <div class="backlink-box">
+      <a class="external-link" href="http://google.com"> google </a><br>
+      </div>
+
       </div>
       {% else %}
 
