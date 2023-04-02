@@ -8,8 +8,8 @@ img {
     margin-right: 15px;
 }
 
-a, .internal-link, .external-link {
-    color: lavender;
+a, .internal-link a, .external-link a {
+    color: lavender !important;
     text-decoration: none !important;
 }
 
