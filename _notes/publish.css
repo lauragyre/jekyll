@@ -11,7 +11,7 @@ img {
 content a.internal-link a, content a.external-link {
     color: lavender !important;
     text-decoration: none !important;
-    background-color: none !important;
+    background-color: white !important;
 }
 
 content a.internal-link
