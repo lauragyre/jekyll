@@ -6,13 +6,6 @@ This is my attempt at a digital garden (an actively changing online repository f
 
 If you're feeling more experimental, you could scroll to the bottom of this page and click around in the mind map, or you could start with one of these notes:
 
-[[About Me]]
-[[Metaphor and Magic]]
-[[Writing Projects Index]]
-
-
-
-
-
-
------------
+- [[About Me]]
+- [[Metaphor and Magic]]
+- [[Writing Projects Index]]
