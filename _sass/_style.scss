@@ -79,7 +79,7 @@ a {
   padding: 0 0.1em;
   text-decoration: none;
   border-bottom: 0px solid $color-border;
-  color: lavender;
+  color: lavender !important;
   &:hover {
     color: purple !important;
 
