@@ -9,5 +9,3 @@ I'm a compulsive reader, a [[Writing|writer]], [[Illustration|illustrator]], and
 On a personal level, I'm also pretty interested in [[Habits Live in the Environment|habit design]] with a heavy emphasis on [[Creativity|creative]] and [[Spirituality|magical/spiritual]] praxis, and I think quite a bit about [[Holistic Health|holistic health]]. 
 
 -----------
-
-The nature of this note situation will always be that some of the notes are extremely unfinished. Questions? Comments? Write to me at lauradawngyre@gmail.com or @ me on [Twitter](http://twitter.com/lauragyre). Like this project? Join my [Patreon](https://www.patreon.com/lauragyre) for as little as $2 per month and help me pay for the software that keeps it online.
