@@ -5,7 +5,7 @@ dg-publish: true
 [[Void]]
 #essays 
 
-In 2020, a couple of my huge personal themes were [[Metaphor|metaphor]] and boundaries. This is a series of notes I wrote that seemed worth saving to revisit in the future:
+In 2020, a couple of my huge personal themes were [[Metaphor and Magic]] and boundaries. This is a series of notes I wrote that seemed worth saving to revisit in the future:
 
 <img src="/assets/spider.jpeg" style="float: left">
 
