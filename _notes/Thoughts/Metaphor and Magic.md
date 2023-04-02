@@ -2,7 +2,7 @@
 dg-publish: true
 ---
 
-I think this is [[Shape Thoughts Index|another book]], or it might be one some day. 
+I think this is [[Shape Thoughts Book Notes|another book]], or it might be one some day. 
 
 Maybe it starts with a butterfly? Not sure why yet, something about meta pherein (carrying accross), something about Psyche (the goddess, the butterfly, the soul, the breath).
 
