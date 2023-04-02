@@ -8,10 +8,11 @@ img {
     margin-right: 15px;
 }
 
-a {
+a, .internal-link, .external-link {
+    color: lavender;
     text-decoration: none !important;
 }
 
 .site-header, .site-footer {
-  
+
 }
