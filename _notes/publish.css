@@ -1,0 +1,17 @@
+h1, h2, h3, h4, .page-header {
+    
+    font-weight: normal !important;
+}
+
+img {
+    float: left !important;
+    margin-right: 15px;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+.site-header, .site-footer {
+    display: none !important;
+}

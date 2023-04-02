@@ -1,0 +1,5 @@
+- lots more on [[Void|apophatics]]
+- [[Aristotle and Metaphor]] paper
+- [[Recipes|recipes]]
+- stuff on German holiday tradition and [[Mugwort]]
+- [[Eight of Cups]] [[Synchronicity Tracker|synchronicity]] continues
