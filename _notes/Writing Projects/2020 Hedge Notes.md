@@ -7,7 +7,7 @@ dg-publish: true
 
 In 2020, a couple of my huge personal themes were [[Metaphor and Magic]] and boundaries. This is a series of notes I wrote that seemed worth saving to revisit in the future:
 
-<img src="/assets/spider.jpeg" style="float: left margin-right: 25px;">
+<img src="/assets/spider.jpeg" style="float: left; margin-right: 25px;">
 
  1. Hedgerows. In England and probably other places, they used to separate everybody’s property from everybody else’s. But also, they were literally made of hedges and incredibly diverse ecosystems tend to exist in (h)edge environments. Due to the way that boundaries actually connect everything to everything else, they’re also crucial corridors for wildlife migration.
 
