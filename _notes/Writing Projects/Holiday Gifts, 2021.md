@@ -4,7 +4,8 @@ dg-publish: true
 
 #essays 
 
-![[hekate.jpeg|400]]Back in the fall I finally located a perfect statue of Hekate, so when I was hired for an unexpected Halloween tarot gig I used the money to order it from Russia. According to the tracking information, she was stuck in Germany for over a month. Over the last three days, while I did not receive any further updates on that situation, I did receive a number of other fairly bizarre early holiday gifts from the universe:
+<img src="/assets/hekate.jpeg" style="float: left; padding-right: 15px;">
+Back in the fall I finally located a perfect statue of Hekate, so when I was hired for an unexpected Halloween tarot gig I used the money to order it from Russia. According to the tracking information, she was stuck in Germany for over a month. Over the last three days, while I did not receive any further updates on that situation, I did receive a number of other fairly bizarre early holiday gifts from the universe:
 
 First, there was a vision of the shape of a snake (I was trying to read, but I couldn't concentrate). In the past, I've been aware of the moment when snakes shed their skin as discrete, I guess, and I appreciate that I, too, have had occasion to transform dramatically. This time, though, I was struck by the inescapable nature and interiority of the snake herself, of personal evolution as an ongoing, all-consuming lifestyle/process.
 
