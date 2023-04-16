@@ -1,0 +1,7 @@
+1. We practice analogical thinking, which is a mental as well as creative and embodied skill. It is a whole way of being in the universe, and it changes everything. It has only a little to do with ideas that are easy to grasp like horoscopes or spellcasting, little more than it has to do with, for example, gardening or auto repair. Still, if you like the idea of possibilities like these, you will like this way of thinking (assuming you understand that there will be sacrifice), and one way in is as good as another.
+
+2. We practice analogical thinking in a tradition, thinking about the symbols that have come down through history, the paths they’ve taken as they come down, and the ways that people have encountered them, understood them, and lived lives shaped by them. We understand the tradition by searching out this trail of symbols until we are a part of it.
+
+3. We affirm that this tradition is, analogically, also a kind of hollow conduit. There is no inner secret that can once and for all be revealed, so there is no chance of dogma. It is engagement with the process of interpretation that is crucial–interpretation, commentary, and also inspired expression.
+
+4. We acknowledge that something about this process is itself a metaphor. There’s something about life which at its core is hollow, untouchable, and visible only in its incidental diversity. As above, so, infinitely and impenetrably, below, as usual.

@@ -10,7 +10,7 @@ An extremely rough list of extremely vague spatial concepts I think about a lot:
 - [[Higher Dimensions]]
 - [[Categories/Containers]]
 - [[Void]]
-- [[Snake]]
+- [[The Shape of a Snake]]
 - [[As Above, So Below]]
 - [[Hotel Dream]]
 - [[Expansion and Contraction]]

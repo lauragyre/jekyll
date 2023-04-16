@@ -1,0 +1,30 @@
+When I finished the first draft of my witchcraft book (maybe in 2019?) I was a bit adrift in terms of projects, but there were already a few big things on my mind:
+
+*  I had noticed that many of my interests like creativity, spirituality, psychology and holistic health all seemed to revolve around [[Metaphor and Magic|a core of metaphor]], and that metaphorical thinking itself had some very interesting qualities, including the ability to describe a fractal universe very well.
+
+*  I had been surprised to learn, while researching, that many of my favorite contemporary occult concepts came directly from Greek philosophy...including some ideas about the elemental system that I had been using myself, but hadn't found in writing anywhere else. In retrospect this isn't surprising at all, but somehow it just hadn't come up that often – I knew there was such a thing as ancient Greek magic, but I had no idea I was particularly interested in it. 
+
+*  I had also noticed that occasionally I would read a book that just seemed magical. I don't mean that these books were just great or important, but that I literally felt they were doing things to my brain. These included, among others, many Sufi books and, weirdly, the book *Plant Intelligence and the Imaginal Realm*, by Stephen Harrod Buhner. As a writer and occultist, I had seen people talk a lot about the problems with transmitting this kind of energy through writing, but never the techniques or strengths of that medium...so I was deeply curious what was up with that.
+
+*  Finally, I had an increasingly specific metaphorical intuition about the importance of borders, barriers and meeting points, that which separates things also connecting them, and some kind of important central void. I wrote [[2020 Hedge Notes|a little essay in 2020]] that mentioned curiosity about the via negativa and ended, "I can’t quite see what’s in the middle of that web, of course, but it still feels like kind of a big deal."
+
+Shortly after that, I finally discovered [[Platonism]]. I was already aware of the Greek roots described above, but I guess I learned more about what they actually involved. I'd previously had a sense that Western esotericism was somehow a degraded system that I might spend my whole life trying to piece together from scattered clues. Plenty of documents are missing, of course, but it was news to me that there was a fully fleshed-out metaphysical system you could just, you know, read books about. I was especially excited to learn about how the Greek conception of philosophy was much more like a spiritual path than the idea of academic philosophy that we have today – in fact, there were a whole lot of parallels between this kind of philosophy and Dharmic religions like Buddhism.   
+
+I was pretty sold on all that immediately, especially once I realized that it tied into a couple of these other threads, too: for example, there was a core of apophatic weirdness to this philosophy, with the central idea of *The One*, which "is not, and is not one," often described with beautiful sun metaphors (and the metaphorical entailment that you can never look directly at it). 
+Also, there were magical books! This was still more or less a mystery to me, but it felt like a confirmation that I was on the right path. 
+
+Anyway, I got really into Greek philosophy (and philosophy in general), and decided to make a long-shot attempt to get into a PhD program. I had to write a sample paper and still didn't know much about where to even start, so I saw a book about metaphor in Plotinus and decided to combine these two interests and go from there. In the course of [[Aristotle and Metaphor|researching this paper]] (I never got around to writing the second half, about Plotinus), I learned a) that I believe almost all communication is metaphorical, and b) that metaphor isn't just an incidental thing in Platonism, it's pretty central there, too.  
+
+This is an opinion that I am fully convinced of, but unfortunately not too prepared to make a full argument for. Here are a few things, though:
+
+*  Plato's [[Seventh Letter]] is not long and this discussion of forms is one of the best things I've ever read about the power of metaphor, and also wisdom transmission. Forms are, arguably, entirely metaphoric. Practice thinking metaphorically about these forms allows for greater comprehension of the whole chain of being, including the stuff at the top that you can't look directly at (including the sun as a hypostasis and metaphor of The One).
+
+*  More Platonist quotes about how [[Metaphor Can't Be Taught]] 
+
+*  It seems like one implication of all this is that the use of metaphor itself is one of those subtle things that must be transmitted through direct exposure and practice.
+
+* And, the Socratic method also does a good job of showing that what's true in one context often doesn't apply in another context or way of thinking, a great method for noticing how much of all thought is metaphorical rather than literally true in some other way.
+
+As I was just finishing up my paper and realizing that my plan was never going to work, I did run into a few other resources that helped my tie up some loose ends. For one thing, I read Stephen Harrod Buhner's [[Ensouling Language|book on writing]] to try to figure out why his books were so magical, and apparently he just wrote down the answer: it's a bit complicated, but basically has to do with an in-depth application of metaphor. You should read it, if you like books that are alive. I'm not sure if Buhner ever thought of himself as a Platonist, but there are some other traces there...and that's the thing about all this stuff, it gets passed along, as it does in the occult community, and people don't necessarily realize what they're doing or where any of it comes from. 
+
+As for the Sufi books, that's kind of [[Sufism|Part 2]] of this story. 
